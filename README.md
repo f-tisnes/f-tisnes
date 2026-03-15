@@ -2,7 +2,7 @@
 
 ### Formation
 **Master 1 Data Science** pour l'économie et l'entreprise à l'Université de Strasbourg.
-*Spécialisation en **analyse de données**, modélisation statistique et économétrie.
+Spécialisation en **analyse de données**, modélisation statistique et économétrie.
 
 ### Recherche d'Alternance
 **Poste :** Data Scientist / Data Analyst (Alternance).
