@@ -45,7 +45,3 @@ Je suis à la recherche d'une alternance pour mon année de **Master 2**, allian
 * Analyse des habitudes d'écoute Spotify (réalisé en **Python/Pandas**).
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical" alt="Stats de Francesca" />
-</p>
