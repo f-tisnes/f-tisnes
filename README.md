@@ -72,10 +72,3 @@ Système de gestion d'un espace de coworking construit sur une base normalisée.
 - **Coût de la vie** — estimation de budgets par scraping croisé Marmiton / Numbeo, architecture orientée objet.
 
 ---
-
-## 📈 Activité GitHub
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=f-tisnes&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&card_width=350" alt="Statistiques GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-tisnes&layout=compact&hide_border=true&langs_count=6&card_width=320" alt="Langages les plus utilisés" />
-</p>
